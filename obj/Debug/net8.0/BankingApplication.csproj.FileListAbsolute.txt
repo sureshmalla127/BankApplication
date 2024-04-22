@@ -1,0 +1,14 @@
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+C:\Users\SUREMALL\Desktop\vsCode\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
